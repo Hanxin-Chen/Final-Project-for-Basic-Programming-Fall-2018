@@ -13,9 +13,8 @@ Final Project for Basic Programming Fall 2018
 
 ### Login System
 - Login & Welcome Page
-- Error: invalid username or password
+- Error check: invalid username or password
 
-### Select Events
 
 ### Functions
 
