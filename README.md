@@ -2,8 +2,6 @@
 
 :warning: This program can not run on MacOS or Linux! 
 
-:warning: 
-
 ## Calendar
 `Input` Year & Month
 
