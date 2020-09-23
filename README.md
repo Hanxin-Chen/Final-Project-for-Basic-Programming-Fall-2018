@@ -1,7 +1,8 @@
-# Final-Project-for-Basic-Programming-Fall-2018
-Final Project for Basic Programming Fall 2018
+# Final Project for Basic Programming Fall 2018
 
-`Warning: ` This program can not run on MacOS or Linux!  
+:warning: This program can not run on MacOS or Linux! 
+
+:warning: 
 
 ## Calendar
 `Input` Year & Month
